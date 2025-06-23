@@ -9,7 +9,7 @@ engine.setProperty('rate', rate - 30)  # Adjust as needed
 
 # Happy Birthday lines
 lines = [
-    "ear Aditya",
+    "hello aditya ",
     "Happy birthday to you",
     
     "Jai Shree Ram!"
